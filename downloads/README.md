@@ -2,6 +2,10 @@
 
 ## Undersea Internet — 30-second Short
 
+- [Download TIGHT V3 MP4 — 26.3 seconds, 1080 × 1920](https://github.com/ltranngoc483-netizen/video/raw/refs/heads/video-downloads/downloads/invisible-world-undersea-short-tight-v3.mp4)
+
+**Tight V3 (latest):** removes 3.73 seconds of narration gaps and excess holds from V2. Picture, captions and audio use the same cut points; all spoken words remain at the original speaking speed. CTA now begins at 22.07 seconds.
+
 - [Download MOTION V2 MP4 — 30 seconds, 1080 × 1920](https://github.com/ltranngoc483-netizen/video/raw/refs/heads/video-downloads/downloads/invisible-world-undersea-short-30s-motion-v2.mp4)
 
 **Motion V2:** sixteen speech-timed visual beats, unfolding waves, an animated globe route, satellite cutaway, peeling cable layers, optical pulses, a separately animated shark and descending anchor, a matched cable-break shot, and an unfolding CTA arrow. The narration and captions keep their original timing.
