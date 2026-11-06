@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "30/1",
+        "nb_frames": "19800",
+        "side_data_list": [
+          {}
+        ]
+      },
+      {
+        "codec_name": "aac",
+        "codec_type": "audio",
+        "r_frame_rate": "0/0",
+        "nb_frames": "30939"
+      }
+    ],
+    "format": {
+      "duration": "660.000000",
+      "size": "53597588"
+    }
+  },
+  "audioPeak": 0.7085533142089844,
+  "scenes": 40,
+  "chapters": 4,
+  "animationCadenceFps": 15,
+  "deliveryFps": 30,
+  "voice": "Piper vi_VN-vais1000-medium; local, not ElevenLabs"
+}

@@ -1,5 +1,14 @@
 # The Invisible World — downloads
 
+## Vạn Thịnh Phát – SCB — 11-minute Vietnamese documentary
+
+- [Tải MP4 đầy đủ — 11 phút, 1920 × 1080](https://github.com/ltranngoc483-netizen/video/raw/refs/heads/video-downloads/downloads/van-thinh-phat-full-11min-1080p.mp4)
+- [Thumbnail A: RÚT RUỘT SCB](van-thinh-phat-thumbnail-a.jpg) · [Thumbnail B: AI GIỮ CHÌA KHÓA?](van-thinh-phat-thumbnail-b.jpg)
+- [Dự án chỉnh sửa ZIP](van-thinh-phat-editable.zip) · [Kịch bản 40 cảnh](van-thinh-phat-kich-ban.md) · [Mô tả, tag và ghi nguồn audio](van-thinh-phat-publishing.txt)
+- [Ghi chú sản xuất và giới hạn xác minh](van-thinh-phat-production-notes.md)
+
+Full editorial draft: 40 papercraft scenes, Vietnamese narration and captions, original synthesized effects, four acts at 00:00 / 02:30 / 05:30 / 08:30. Native animation is 15 fps stop-motion; delivery is 30 fps with duplicated frames. Voice is local Piper vi_VN-vais1000-medium (female-leaning), not the requested male ElevenLabs voice. VAIS-1000 audio attribution and CC BY 4.0 information are included in the publishing text and production notes; retain the attribution when posting. This is not an independently fact-checked account of current legal status: news access was blocked in the environment. Verify the legal amounts and procedural context before publication. Images are illustrative diagrams, not actual evidence or bank premises.
+
 ## First Brands — The hidden paper trail
 
 - [Portrait thumbnail JPG](first-brands-thumbnail-9x16.jpg) · [Original PNG](first-brands-thumbnail-9x16.png) · [English title, description and tags](first-brands-publishing.txt)
