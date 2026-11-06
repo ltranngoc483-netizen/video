@@ -1,0 +1,1331 @@
+﻿1
+00:00:00,100 --> 00:00:01,056
+Một triệu tỷ đồng.
+
+2
+00:00:01,056 --> 00:00:03,318
+Một con số đủ khiến người ta choáng váng.
+
+3
+00:00:03,318 --> 00:00:06,176
+Nhưng trong đại án Vạn Thịnh Phát, đọc đúng con số
+
+4
+00:00:06,176 --> 00:00:07,994
+còn quan trọng hơn đọc thật lớn.
+
+5
+00:00:07,994 --> 00:00:10,829
+Tổng tiền giải ngân, tiền bị chiếm đoạt và thiệt hại
+
+6
+00:00:10,829 --> 00:00:11,602
+không phải một.
+
+7
+00:00:11,602 --> 00:00:14,376
+Nếu gộp chúng lại, ta sẽ hiểu sai cả cỗ máy
+
+8
+00:00:14,376 --> 00:00:14,880
+phía sau.
+
+9
+00:00:15,100 --> 00:00:17,470
+Tổng giải ngân cộng các lượt tiền ngân hàng đã cho
+
+10
+00:00:17,470 --> 00:00:17,685
+vay.
+
+11
+00:00:17,685 --> 00:00:20,242
+Tiền chiếm đoạt là một khái niệm pháp lý, phải gắn
+
+12
+00:00:20,242 --> 00:00:22,102
+với hành vi và giai đoạn cụ thể.
+
+13
+00:00:22,102 --> 00:00:23,922
+Thiệt hại lại cần cách xác định riêng.
+
+14
+00:00:23,922 --> 00:00:26,443
+Một khoản được đảo qua nhiều hồ sơ có thể xuất
+
+15
+00:00:26,443 --> 00:00:28,963
+hiện nhiều lần trong dòng chảy tín dụng, mà không phải
+
+16
+00:00:28,963 --> 00:00:29,880
+nhiều khoản tiền mới.
+
+17
+00:00:30,100 --> 00:00:32,570
+Vì thế, bộ phim này không gọi toàn bộ số tiền
+
+18
+00:00:32,570 --> 00:00:34,366
+giải ngân là tiền đã bị lấy mất.
+
+19
+00:00:34,366 --> 00:00:36,744
+Cũng không so nó với một phần tư nền kinh tế
+
+20
+00:00:36,744 --> 00:00:38,473
+khi chưa xác định năm và cách tính.
+
+21
+00:00:38,473 --> 00:00:40,115
+Thứ cần bóc tách là cơ chế.
+
+22
+00:00:40,115 --> 00:00:41,048
+Ai quyết định cho vay?
+
+23
+00:00:41,048 --> 00:00:42,592
+Hồ sơ được tạo ra thế nào?
+
+24
+00:00:42,592 --> 00:00:44,880
+Và cuối cùng, ai thực sự sử dụng tiền?
+
+25
+00:00:45,100 --> 00:00:47,306
+Một ngân hàng không phải chiếc két của một cá nhân.
+
+26
+00:00:47,306 --> 00:00:49,914
+Phía sau bảng cân đối là tiền gửi, vốn của các
+
+27
+00:00:49,914 --> 00:00:52,048
+cổ đông và những nghĩa vụ phải thanh toán.
+
+28
+00:00:52,048 --> 00:00:54,481
+Khi ngân hàng cho vay, nó đang chuyển nguồn lực ấy
+
+29
+00:00:54,481 --> 00:00:55,144
+sang người vay.
+
+30
+00:00:55,144 --> 00:00:57,157
+Rủi ro không biến mất sau một chữ ký.
+
+31
+00:00:57,157 --> 00:00:59,880
+Nó được chuyển sang tương lai, cùng lời hứa hoàn trả.
+
+32
+00:01:00,100 --> 00:01:02,431
+Trong hoạt động bình thường, hồ sơ phải chứng minh nhu
+
+33
+00:01:02,431 --> 00:01:03,915
+cầu vốn và khả năng trả nợ.
+
+34
+00:01:03,915 --> 00:01:06,258
+Tài sản bảo đảm chỉ là lớp phòng vệ bổ sung.
+
+35
+00:01:06,258 --> 00:01:08,478
+Nhưng nếu quyết định cho vay đã có từ trước, những
+
+36
+00:01:08,478 --> 00:01:10,496
+lớp kiểm tra có thể bị biến thành thủ tục.
+
+37
+00:01:10,496 --> 00:01:12,852
+Khi ấy, hồ sơ không còn kiểm soát dòng tiền.
+
+38
+00:01:12,852 --> 00:01:14,880
+Nó chạy theo để hợp thức hóa dòng tiền.
+
+39
+00:01:15,100 --> 00:01:17,725
+Để hiểu câu chuyện, phải bắt đầu từ quyền chi phối.
+
+40
+00:01:17,725 --> 00:01:20,278
+Hồ sơ vụ án Vạn Thịnh Phát mô tả việc Trương
+
+41
+00:01:20,278 --> 00:01:22,831
+Mỹ Lan kiểm soát phần lớn cổ phần ngân hàng SCB
+
+42
+00:01:22,831 --> 00:01:24,224
+thông qua người đứng tên hộ.
+
+43
+00:01:24,224 --> 00:01:26,585
+Điều đáng chú ý không chỉ là tên xuất hiện trên
+
+44
+00:01:26,585 --> 00:01:26,800
+giấy.
+
+45
+00:01:26,800 --> 00:01:29,220
+Mà là người có thể ra quyết định phía sau những
+
+46
+00:01:29,220 --> 00:01:29,880
+cái tên đó.
+
+47
+00:01:30,100 --> 00:01:32,580
+Mức chi phối được nhắc đến trong hồ sơ là tới
+
+48
+00:01:32,580 --> 00:01:34,610
+chín mươi mốt phẩy năm phần trăm cổ phần.
+
+49
+00:01:34,610 --> 00:01:37,264
+Trên sa bàn, nhiều tấm thẻ cổ đông trông tách biệt.
+
+50
+00:01:37,264 --> 00:01:39,664
+Nhưng những sợi dây phía sau cùng hội tụ về một
+
+51
+00:01:39,664 --> 00:01:39,882
+điểm.
+
+52
+00:01:39,882 --> 00:01:42,381
+Sở hữu trên danh sách và quyền kiểm soát thực tế
+
+53
+00:01:42,381 --> 00:01:44,880
+vì thế có thể là hai bức tranh rất khác nhau.
+
+54
+00:01:45,100 --> 00:01:47,563
+Một người không cần trực tiếp ngồi tại mọi bàn làm
+
+55
+00:01:47,563 --> 00:01:49,353
+việc để tác động đến cả hệ thống.
+
+56
+00:01:49,353 --> 00:01:51,610
+Quyền lực có thể đi qua bổ nhiệm, chỉ đạo và
+
+57
+00:01:51,610 --> 00:01:52,841
+những mối quan hệ lệ thuộc.
+
+58
+00:01:52,841 --> 00:01:55,187
+Nếu người thẩm định, người phê duyệt và người cần tiền
+
+59
+00:01:55,187 --> 00:01:57,534
+đều chịu cùng một ảnh hưởng, các chữ ký độc lập
+
+60
+00:01:57,534 --> 00:01:59,880
+về hình thức sẽ không còn độc lập về thực chất.
+
+61
+00:02:00,100 --> 00:02:02,261
+Cỗ máy này có thể nhìn qua ba cột trụ.
+
+62
+00:02:02,261 --> 00:02:03,884
+Thứ nhất, quyền chi phối ngân hàng.
+
+63
+00:02:03,884 --> 00:02:06,388
+Thứ hai, mạng lưới pháp nhân và hồ sơ vay.
+
+64
+00:02:06,388 --> 00:02:08,919
+Thứ ba, khả năng đưa tiền ra ngoài, trong khi sự
+
+65
+00:02:08,919 --> 00:02:10,300
+giám sát bị vô hiệu hóa.
+
+66
+00:02:10,300 --> 00:02:12,652
+Chỉ nhìn một khoản vay riêng lẻ sẽ khó thấy bức
+
+67
+00:02:12,652 --> 00:02:12,866
+tranh.
+
+68
+00:02:12,866 --> 00:02:14,880
+Phải nối các mảnh giấy thành một hệ thống.
+
+69
+00:02:15,100 --> 00:02:16,889
+Tòa nhà giấy trước mắt vẫn đứng vững.
+
+70
+00:02:16,889 --> 00:02:17,955
+Biển hiệu vẫn sáng.
+
+71
+00:02:17,955 --> 00:02:18,928
+Hồ sơ vẫn dày.
+
+72
+00:02:18,928 --> 00:02:20,986
+Nhưng điều đó chưa chứng minh nền móng an toàn.
+
+73
+00:02:20,986 --> 00:02:23,504
+Trong một hệ thống tài chính, vẻ đầy đủ của chứng
+
+74
+00:02:23,504 --> 00:02:25,794
+từ có thể che khuất sự thiếu vắng kiểm soát.
+
+75
+00:02:25,794 --> 00:02:28,041
+Câu hỏi tiếp theo là: những pháp nhân xuất hiện trong
+
+76
+00:02:28,041 --> 00:02:29,880
+hồ sơ có thực sự kinh doanh hay không?
+
+77
+00:02:30,100 --> 00:02:32,897
+Một doanh nghiệp thực phải có hoạt động, con người và
+
+78
+00:02:32,897 --> 00:02:34,931
+dòng tiền phù hợp với mục đích vay.
+
+79
+00:02:34,931 --> 00:02:37,695
+Một pháp nhân chỉ tồn tại để đứng tên khoản nợ
+
+80
+00:02:37,695 --> 00:02:39,202
+lại tạo ra bức tranh khác.
+
+81
+00:02:39,202 --> 00:02:41,872
+Hồ sơ vụ án mô tả mạng lưới doanh nghiệp được
+
+82
+00:02:41,872 --> 00:02:44,542
+huy động cho việc lập phương án và hồ sơ tín
+
+83
+00:02:44,542 --> 00:02:44,785
+dụng.
+
+84
+00:02:44,785 --> 00:02:47,404
+Nhiều cái tên không đồng nghĩa với nhiều nguồn trả nợ
+
+85
+00:02:47,404 --> 00:02:47,880
+độc lập.
+
+86
+00:02:48,100 --> 00:02:50,148
+Hãy nhìn những tấm thẻ doanh nghiệp này.
+
+87
+00:02:50,148 --> 00:02:52,832
+Đổi tên, đổi người đại diện, đổi địa chỉ đăng ký
+
+88
+00:02:52,832 --> 00:02:55,273
+chưa chắc làm thay đổi người hưởng lợi cuối cùng.
+
+89
+00:02:55,273 --> 00:02:58,057
+Nếu nhiều khách hàng cùng nằm dưới một quyền điều khiển,
+
+90
+00:02:58,057 --> 00:03:00,842
+việc đánh giá chúng như những khoản vay hoàn toàn tách
+
+91
+00:03:00,842 --> 00:03:02,868
+biệt sẽ che giấu rủi ro tập trung.
+
+92
+00:03:02,868 --> 00:03:04,210
+Số lượng hồ sơ tăng lên.
+
+93
+00:03:04,210 --> 00:03:05,880
+Sự phân tán thực sự thì không.
+
+94
+00:03:06,100 --> 00:03:08,787
+Một chữ ký có thể gắn nghĩa vụ pháp lý với
+
+95
+00:03:08,787 --> 00:03:09,520
+người đứng tên.
+
+96
+00:03:09,520 --> 00:03:12,384
+Nhưng chữ ký ấy không tự trả lời ai chuẩn bị
+
+97
+00:03:12,384 --> 00:03:15,248
+tài liệu, ai đưa ra chỉ dẫn, ai nhận lợi ích.
+
+98
+00:03:15,248 --> 00:03:18,367
+Bởi vậy, điều tra không dừng ở trang cuối hợp đồng.
+
+99
+00:03:18,367 --> 00:03:21,399
+Nó đi ngược về quá trình tạo hồ sơ, rồi đi
+
+100
+00:03:21,399 --> 00:03:23,880
+xuôi theo tài khoản và người sử dụng tiền.
+
+101
+00:03:24,100 --> 00:03:26,843
+Trong cơ chế bị bóc tách, nhu cầu tiền có thể
+
+102
+00:03:26,843 --> 00:03:27,592
+xuất hiện trước.
+
+103
+00:03:27,592 --> 00:03:30,536
+Sau đó mới đến việc tìm pháp nhân, tài liệu và
+
+104
+00:03:30,536 --> 00:03:32,409
+tài sản để ghép thành hồ sơ.
+
+105
+00:03:32,409 --> 00:03:35,209
+Trình tự ấy đảo ngược mục đích của kiểm soát tín
+
+106
+00:03:35,209 --> 00:03:35,463
+dụng.
+
+107
+00:03:35,463 --> 00:03:38,287
+Thay vì hỏi khoản vay có xứng đáng được cấp hay
+
+108
+00:03:38,287 --> 00:03:41,110
+không, bộ máy tìm cách tạo ra câu trả lời đã
+
+109
+00:03:41,110 --> 00:03:41,880
+được định sẵn.
+
+110
+00:03:42,100 --> 00:03:43,669
+Tiếng đóng dấu nghe rất chắc.
+
+111
+00:03:43,669 --> 00:03:46,409
+Nhưng một con dấu không thể biến đất khó thanh khoản
+
+112
+00:03:46,409 --> 00:03:47,654
+thành tiền mặt có sẵn.
+
+113
+00:03:47,654 --> 00:03:50,246
+Nó cũng không thể làm một phương án thiếu dòng tiền
+
+114
+00:03:50,246 --> 00:03:51,896
+trở nên có khả năng trả nợ.
+
+115
+00:03:51,896 --> 00:03:54,857
+Giá trị của thẩm định nằm ở bằng chứng và phương
+
+116
+00:03:54,857 --> 00:03:55,126
+pháp.
+
+117
+00:03:55,126 --> 00:03:57,741
+Khi kết quả chỉ phục vụ yêu cầu của người cần
+
+118
+00:03:57,741 --> 00:03:59,880
+vốn, lớp bảo vệ ấy đã bị xuyên thủng.
+
+119
+00:04:00,100 --> 00:04:02,846
+Những tài sản bất động sản quy mô lớn thường khiến
+
+120
+00:04:02,846 --> 00:04:04,094
+hồ sơ trông đáng tin.
+
+121
+00:04:04,094 --> 00:04:06,787
+Nhưng giá chào, giá định giá và giá có thể thu
+
+122
+00:04:06,787 --> 00:04:08,256
+hồi là ba thứ khác nhau.
+
+123
+00:04:08,256 --> 00:04:10,993
+Quyền pháp lý, nghĩa vụ còn lại và điều kiện chuyển
+
+124
+00:04:10,993 --> 00:04:13,731
+nhượng đều có thể làm thay đổi giá trị thực nhận.
+
+125
+00:04:13,731 --> 00:04:16,415
+Một xấp giấy chứng nhận dày không bảo đảm rằng ngân
+
+126
+00:04:16,415 --> 00:04:17,880
+hàng có thể bán được ngay.
+
+127
+00:04:18,100 --> 00:04:20,767
+Dự án đang phát triển còn phụ thuộc thủ tục, chi
+
+128
+00:04:20,767 --> 00:04:22,706
+phí hoàn thành và sức mua tương lai.
+
+129
+00:04:22,706 --> 00:04:25,323
+Nếu chỉ lấy một con số kỳ vọng rồi coi đó
+
+130
+00:04:25,323 --> 00:04:27,940
+là nguồn thu chắc chắn, rủi ro sẽ bị đẩy ra
+
+131
+00:04:27,940 --> 00:04:28,892
+khỏi trang báo cáo.
+
+132
+00:04:28,892 --> 00:04:31,803
+Trong thực tế, khi cần xử lý tài sản, thời gian
+
+133
+00:04:31,803 --> 00:04:32,861
+có thể kéo dài.
+
+134
+00:04:32,861 --> 00:04:33,733
+Chi phí tăng thêm.
+
+135
+00:04:33,733 --> 00:04:35,880
+Giá thu hồi có thể khác xa giá ghi nhận.
+
+136
+00:04:36,100 --> 00:04:38,862
+Một khoản tiền mới có thể khiến khoản nợ cũ trông
+
+137
+00:04:38,862 --> 00:04:39,867
+như đã được trả.
+
+138
+00:04:39,867 --> 00:04:42,497
+Nhưng phải hỏi tiền trả nợ đến từ hoạt động kinh
+
+139
+00:04:42,497 --> 00:04:44,170
+doanh hay từ một nguồn vay khác.
+
+140
+00:04:44,170 --> 00:04:46,855
+Nếu chỉ chuyển nghĩa vụ qua những pháp nhân liên quan,
+
+141
+00:04:46,855 --> 00:04:48,075
+áp lực không biến mất.
+
+142
+00:04:48,075 --> 00:04:50,977
+Nó được chuyển tên, chuyển ngày và chuyển sang một bộ
+
+143
+00:04:50,977 --> 00:04:53,880
+hồ sơ mới, trong khi rủi ro cốt lõi vẫn còn.
+
+144
+00:04:54,100 --> 00:04:56,703
+Từng bộ chứng từ có thể trông gọn gàng khi nằm
+
+145
+00:04:56,703 --> 00:04:57,413
+riêng trên bàn.
+
+146
+00:04:57,413 --> 00:05:00,201
+Điểm bất thường thường xuất hiện khi đặt chúng cạnh nhau:
+
+147
+00:05:00,201 --> 00:05:02,990
+người liên quan trùng lặp, mục đích vay thiếu chứng minh,
+
+148
+00:05:02,990 --> 00:05:04,511
+dòng tiền đi khác phương án.
+
+149
+00:05:04,511 --> 00:05:07,072
+Điều tra tài chính vì thế là công việc nối các
+
+150
+00:05:07,072 --> 00:05:07,770
+mối quan hệ.
+
+151
+00:05:07,770 --> 00:05:10,429
+Không chỉ đếm số tờ giấy, mà kiểm tra xem chúng
+
+152
+00:05:10,429 --> 00:05:11,880
+có kể cùng một sự thật.
+
+153
+00:05:12,100 --> 00:05:14,909
+Đến đây, cánh cửa két không còn được mở chỉ bằng
+
+154
+00:05:14,909 --> 00:05:15,931
+một chiếc chìa khóa.
+
+155
+00:05:15,931 --> 00:05:18,725
+Nó được mở bằng cả chuỗi phê duyệt đã mất chức
+
+156
+00:05:18,725 --> 00:05:19,487
+năng phản biện.
+
+157
+00:05:19,487 --> 00:05:20,327
+Tiền đi ra.
+
+158
+00:05:20,327 --> 00:05:23,322
+Trên sổ sách, ngân hàng vẫn có một khoản phải thu.
+
+159
+00:05:23,322 --> 00:05:26,096
+Nhưng nếu người vay không có khả năng trả nợ thực,
+
+160
+00:05:26,096 --> 00:05:28,871
+tài sản ấy có thể chỉ là lời hứa được bọc
+
+161
+00:05:28,871 --> 00:05:29,880
+bằng nhiều lớp giấy.
+
+162
+00:05:30,100 --> 00:05:32,835
+Dòng tiền điện tử còn có dấu vết tài khoản.
+
+163
+00:05:32,835 --> 00:05:35,682
+Khi được rút thành tiền mặt, việc lần theo người sử
+
+164
+00:05:35,682 --> 00:05:37,494
+dụng cuối cùng trở nên khó hơn.
+
+165
+00:05:37,494 --> 00:05:40,516
+Những con số trên màn hình biến thành vật thể: bó
+
+166
+00:05:40,516 --> 00:05:42,439
+tiền, kiện hàng, phương tiện vận chuyển.
+
+167
+00:05:42,439 --> 00:05:44,110
+Nhưng tiền mặt không tự biến mất.
+
+168
+00:05:44,110 --> 00:05:46,875
+Nó để lại dấu vết khác, từ lệnh rút đến người
+
+169
+00:05:46,875 --> 00:05:47,880
+nhận và nơi giao.
+
+170
+00:05:48,100 --> 00:05:51,173
+Trong các lời khai được công bố về vụ án, khối
+
+171
+00:05:51,173 --> 00:05:54,246
+lượng tiền mặt rất lớn được mô tả là đã vận
+
+172
+00:05:54,246 --> 00:05:55,364
+chuyển qua nhiều lần.
+
+173
+00:05:55,364 --> 00:05:58,211
+Con số hơn một trăm linh tám nghìn tỷ đồng thường
+
+174
+00:05:58,211 --> 00:05:59,764
+được nhắc trong câu chuyện này.
+
+175
+00:05:59,764 --> 00:06:02,526
+Đó không phải hình ảnh một xe tải chở tất cả
+
+176
+00:06:02,526 --> 00:06:03,279
+trong một đêm.
+
+177
+00:06:03,279 --> 00:06:05,880
+Quy mô ấy phải được hiểu là cả quá trình.
+
+178
+00:06:06,100 --> 00:06:09,292
+Muốn hiểu logistics tiền mặt, hãy tách một lần giao nhận
+
+179
+00:06:09,292 --> 00:06:10,452
+thành từng mắt xích.
+
+180
+00:06:10,452 --> 00:06:11,497
+Lệnh rút ở đâu?
+
+181
+00:06:11,497 --> 00:06:12,527
+Ai chuẩn bị tiền?
+
+182
+00:06:12,527 --> 00:06:13,350
+Ai kiểm đếm?
+
+183
+00:06:13,350 --> 00:06:14,062
+Ai áp tải?
+
+184
+00:06:14,062 --> 00:06:15,591
+Ai xác nhận đã nhận đủ?
+
+185
+00:06:15,591 --> 00:06:18,338
+Mỗi câu trả lời là một đầu mối cần kiểm chứng.
+
+186
+00:06:18,338 --> 00:06:21,241
+Bản tái hiện bằng giấy chỉ mô tả chuỗi trách nhiệm,
+
+187
+00:06:21,241 --> 00:06:23,880
+không phải hình ảnh ghi lại một chuyến xe thật.
+
+188
+00:06:24,100 --> 00:06:27,225
+Tên tòa nhà Sherwood xuất hiện trong lời khai về những
+
+189
+00:06:27,225 --> 00:06:28,078
+lần giao tiền.
+
+190
+00:06:28,078 --> 00:06:30,806
+Điều có giá trị điều tra không chỉ là tên một
+
+191
+00:06:30,806 --> 00:06:31,302
+địa điểm.
+
+192
+00:06:31,302 --> 00:06:34,309
+Mà là cách nối địa điểm ấy với người giao, người
+
+193
+00:06:34,309 --> 00:06:36,497
+nhận, thời gian và chứng từ rút tiền.
+
+194
+00:06:36,497 --> 00:06:39,316
+Khi nhiều lời khai khớp với dữ liệu độc lập, một
+
+195
+00:06:39,316 --> 00:06:41,880
+hành trình tưởng vô hình có thể được dựng lại.
+
+196
+00:06:42,100 --> 00:06:44,839
+Một ngân hàng có thể kiểm tra hồ sơ trước giải
+
+197
+00:06:44,839 --> 00:06:47,577
+ngân, nhưng trách nhiệm không dừng ở thời điểm tiền rời
+
+198
+00:06:47,577 --> 00:06:47,826
+két.
+
+199
+00:06:47,826 --> 00:06:50,483
+Còn phải kiểm tra việc sử dụng vốn sau đó.
+
+200
+00:06:50,483 --> 00:06:53,268
+Nếu tiền đi khác mục đích và không được ngăn chặn,
+
+201
+00:06:53,268 --> 00:06:55,547
+phương án vay chỉ còn là tấm bình phong.
+
+202
+00:06:55,547 --> 00:06:58,351
+Rủi ro tín dụng khi ấy đã trở thành rủi ro
+
+203
+00:06:58,351 --> 00:06:59,880
+của cả bộ máy kiểm soát.
+
+204
+00:07:00,100 --> 00:07:03,074
+Cơ chế cuối cùng phải xét đến là thanh tra, giám
+
+205
+00:07:03,074 --> 00:07:03,344
+sát.
+
+206
+00:07:03,344 --> 00:07:06,060
+Đây đáng lẽ là lớp có thể nhìn xuyên qua những
+
+207
+00:07:06,060 --> 00:07:06,800
+báo cáo đẹp.
+
+208
+00:07:06,800 --> 00:07:09,568
+Nhưng nếu thông tin bị che giấu, hoặc người kiểm tra
+
+209
+00:07:09,568 --> 00:07:12,336
+bị tác động, dấu hiệu nguy hiểm có thể không được
+
+210
+00:07:12,336 --> 00:07:13,091
+phản ánh đúng.
+
+211
+00:07:13,091 --> 00:07:15,725
+Một kết luận nhẹ đi trên giấy có thể kéo dài
+
+212
+00:07:15,725 --> 00:07:17,880
+thời gian để rủi ro tiếp tục tích tụ.
+
+213
+00:07:18,100 --> 00:07:20,522
+Thùng xốp vốn là vật dụng quá quen thuộc.
+
+214
+00:07:20,522 --> 00:07:23,433
+Chính vẻ bình thường khiến nó trở thành hình ảnh ám
+
+215
+00:07:23,433 --> 00:07:26,344
+ảnh trong câu chuyện hối lộ được đưa ra tại phiên
+
+216
+00:07:26,344 --> 00:07:26,609
+tòa.
+
+217
+00:07:26,609 --> 00:07:29,577
+Lớp băng keo che kín không chỉ giấu thứ bên trong.
+
+218
+00:07:29,577 --> 00:07:32,466
+Nó nhắc rằng một vật chứa rất rẻ có thể đứng
+
+219
+00:07:32,466 --> 00:07:35,355
+giữa một giao dịch có giá trị và hậu quả đặc
+
+220
+00:07:35,355 --> 00:07:35,880
+biệt lớn.
+
+221
+00:07:36,100 --> 00:07:38,924
+Khoản tiền năm phẩy hai triệu đô la Mỹ liên quan
+
+222
+00:07:38,924 --> 00:07:41,749
+đến Đỗ Thị Nhàn được nêu trong vụ án nhận hối
+
+223
+00:07:41,749 --> 00:07:42,005
+lộ.
+
+224
+00:07:42,005 --> 00:07:44,789
+Cần phân biệt tổng số tiền với từng lần giao nhận.
+
+225
+00:07:44,789 --> 00:07:47,473
+Không nên hiểu toàn bộ khoản ấy nằm trong một chiếc
+
+226
+00:07:47,473 --> 00:07:48,205
+thùng duy nhất.
+
+227
+00:07:48,205 --> 00:07:51,178
+Trọng tâm là mục đích tác động đến việc thanh tra,
+
+228
+00:07:51,178 --> 00:07:53,880
+và cách lớp giám sát đã bị làm suy yếu.
+
+229
+00:07:54,100 --> 00:07:56,621
+Hối lộ không chỉ là câu chuyện người đưa và người
+
+230
+00:07:56,621 --> 00:07:56,850
+nhận.
+
+231
+00:07:56,850 --> 00:07:59,725
+Trong một ngân hàng, việc làm sai lệch kết quả giám
+
+232
+00:07:59,725 --> 00:08:02,077
+sát có thể khiến các cảnh báo đến muộn.
+
+233
+00:08:02,077 --> 00:08:04,704
+Những quyết định tiếp theo vẫn được đưa ra trên một
+
+234
+00:08:04,704 --> 00:08:05,898
+bức tranh thiếu trung thực.
+
+235
+00:08:05,898 --> 00:08:08,608
+Cái giá vì thế không dừng ở khoản tiền trao tay.
+
+236
+00:08:08,608 --> 00:08:11,607
+Nó lan sang người gửi tiền và niềm tin của thị
+
+237
+00:08:11,607 --> 00:08:11,880
+trường.
+
+238
+00:08:12,100 --> 00:08:14,286
+Ba cột trụ bây giờ đã nối với nhau.
+
+239
+00:08:14,286 --> 00:08:16,502
+Quyền chi phối tạo sức ép lên quyết định.
+
+240
+00:08:16,502 --> 00:08:18,487
+Hồ sơ cung cấp lớp vỏ hợp lệ.
+
+241
+00:08:18,487 --> 00:08:21,437
+Dòng tiền đi ra trong khi hàng rào giám sát không
+
+242
+00:08:21,437 --> 00:08:22,510
+ngăn chặn kịp thời.
+
+243
+00:08:22,510 --> 00:08:25,282
+Không có một mảnh giấy đơn độc giải thích toàn bộ
+
+244
+00:08:25,282 --> 00:08:25,786
+vụ án.
+
+245
+00:08:25,786 --> 00:08:28,788
+Chỉ khi lần ngược cả mạng lưới, cấu trúc của cỗ
+
+246
+00:08:28,788 --> 00:08:29,880
+máy mới hiện ra.
+
+247
+00:08:30,100 --> 00:08:32,422
+Ngân hàng sống bằng niềm tin rằng nghĩa vụ sẽ được
+
+248
+00:08:32,422 --> 00:08:33,267
+thực hiện đúng hạn.
+
+249
+00:08:33,267 --> 00:08:35,809
+Khi thông tin xấu xuất hiện, người gửi tiền không nhìn
+
+250
+00:08:35,809 --> 00:08:37,888
+thấy toàn bộ hồ sơ tín dụng bên trong.
+
+251
+00:08:37,888 --> 00:08:40,242
+Họ chỉ biết hỏi: tiền của mình có an toàn không?
+
+252
+00:08:40,242 --> 00:08:41,610
+Tâm lý lo lắng là có thật.
+
+253
+00:08:41,610 --> 00:08:43,726
+Nhưng tin đồn và suy đoán có thể làm sự bất
+
+254
+00:08:43,726 --> 00:08:44,880
+an lan nhanh hơn sự kiện.
+
+255
+00:08:45,100 --> 00:08:47,427
+Cần phân biệt người gửi tiền tại ngân hàng với người
+
+256
+00:08:47,427 --> 00:08:48,485
+mua trái phiếu doanh nghiệp.
+
+257
+00:08:48,485 --> 00:08:50,961
+Hai sản phẩm có hợp đồng, chủ thể chịu nghĩa vụ
+
+258
+00:08:50,961 --> 00:08:52,536
+và cơ chế bảo vệ khác nhau.
+
+259
+00:08:52,536 --> 00:08:54,726
+Việc một sản phẩm được giới thiệu ở cùng địa điểm
+
+260
+00:08:54,726 --> 00:08:55,921
+không làm chúng trở thành một.
+
+261
+00:08:55,921 --> 00:08:58,340
+Muốn bảo vệ quyền lợi, trước hết phải nhận diện đúng
+
+262
+00:08:58,340 --> 00:08:59,880
+mình đã ký loại giấy tờ nào.
+
+263
+00:09:00,100 --> 00:09:02,316
+Khi một ngân hàng được đặt vào diện kiểm soát đặc
+
+264
+00:09:02,316 --> 00:09:04,531
+biệt, mục tiêu không chỉ là xử lý một nhóm cá
+
+265
+00:09:04,531 --> 00:09:04,732
+nhân.
+
+266
+00:09:04,732 --> 00:09:06,829
+Còn có việc duy trì hoạt động cần thiết và hạn
+
+267
+00:09:06,829 --> 00:09:07,783
+chế tác động dây chuyền.
+
+268
+00:09:07,783 --> 00:09:09,969
+Tuy nhiên, không thể từ một biện pháp quản lý mà
+
+269
+00:09:09,969 --> 00:09:12,155
+tự suy ra mọi quyền lợi được giải quyết tức thì.
+
+270
+00:09:12,155 --> 00:09:14,461
+Mỗi nghĩa vụ phải được xem trong khuôn khổ áp dụng
+
+271
+00:09:14,461 --> 00:09:14,880
+của nó.
+
+272
+00:09:15,100 --> 00:09:17,264
+Tài sản bị kê biên hay phong tỏa không đồng nghĩa
+
+273
+00:09:17,264 --> 00:09:19,035
+tiền đã quay về tay người bị thiệt hại.
+
+274
+00:09:19,035 --> 00:09:21,596
+Còn phải làm rõ quyền sở hữu, nghĩa vụ liên quan
+
+275
+00:09:21,596 --> 00:09:22,761
+và khả năng xử lý.
+
+276
+00:09:22,761 --> 00:09:25,077
+Một tài sản có thể lớn trên giấy nhưng vướng nhiều
+
+277
+00:09:25,077 --> 00:09:25,498
+điều kiện.
+
+278
+00:09:25,498 --> 00:09:26,654
+Thu hồi là một quá trình.
+
+279
+00:09:26,654 --> 00:09:28,872
+Không phải phép cộng tức thì của tất cả con số
+
+280
+00:09:28,872 --> 00:09:29,880
+xuất hiện trong danh mục.
+
+281
+00:09:30,100 --> 00:09:32,133
+Đây cũng là lúc các con số kỳ vọng phải đối
+
+282
+00:09:32,133 --> 00:09:32,872
+mặt với thị trường.
+
+283
+00:09:32,872 --> 00:09:35,023
+Giá định giá cũ không buộc người mua mới phải trả
+
+284
+00:09:35,023 --> 00:09:35,610
+đúng như vậy.
+
+285
+00:09:35,610 --> 00:09:37,889
+Giá trị thu hồi còn phụ thuộc thời điểm và điều
+
+286
+00:09:37,889 --> 00:09:38,304
+kiện bán.
+
+287
+00:09:38,304 --> 00:09:40,715
+Vì thế, khi nhìn một danh sách tài sản để khắc
+
+288
+00:09:40,715 --> 00:09:43,126
+phục hậu quả, hãy hỏi giá trị ròng có thể thực
+
+289
+00:09:43,126 --> 00:09:44,880
+hiện là bao nhiêu, và vào lúc nào.
+
+290
+00:09:45,100 --> 00:09:47,377
+Vụ án Vạn Thịnh Phát có nhiều nhóm hành vi và
+
+291
+00:09:47,377 --> 00:09:48,413
+nhiều giai đoạn tố tụng.
+
+292
+00:09:48,413 --> 00:09:50,855
+Một nhận định pháp lý phải gắn với đúng vụ việc,
+
+293
+00:09:50,855 --> 00:09:51,965
+bản án và thời điểm.
+
+294
+00:09:51,965 --> 00:09:54,178
+Bộ phim này phân tích cơ chế được công bố trong
+
+295
+00:09:54,178 --> 00:09:56,392
+hồ sơ và các phiên tòa, không thay thế văn bản
+
+296
+00:09:56,392 --> 00:09:56,794
+tố tụng.
+
+297
+00:09:56,794 --> 00:09:59,219
+Các quyết định mới hơn cần được đối chiếu riêng trước
+
+298
+00:09:59,219 --> 00:09:59,880
+khi sử dụng.
+
+299
+00:10:00,100 --> 00:10:02,367
+Bài học đầu tiên là phải nhận diện người hưởng lợi
+
+300
+00:10:02,367 --> 00:10:02,780
+cuối cùng.
+
+301
+00:10:02,780 --> 00:10:05,056
+Nếu chỉ nhìn người đứng tên, ngân hàng có thể đánh
+
+302
+00:10:05,056 --> 00:10:07,333
+giá thấp mức độ tập trung quyền lực và tín dụng.
+
+303
+00:10:07,333 --> 00:10:09,510
+Kiểm soát sở hữu chéo và cho vay đối với người
+
+304
+00:10:09,510 --> 00:10:11,291
+liên quan không phải những điều khoản xa xôi.
+
+305
+00:10:11,291 --> 00:10:13,484
+Chúng quyết định liệu nhiều cánh cửa trên giấy có thực
+
+306
+00:10:13,484 --> 00:10:14,880
+sự dẫn về cùng một căn phòng.
+
+307
+00:10:15,100 --> 00:10:17,323
+Bài học thứ hai là quyền từ chối phải có thật.
+
+308
+00:10:17,323 --> 00:10:19,698
+Bộ phận thẩm định cần khả năng phản biện mà không
+
+309
+00:10:19,698 --> 00:10:20,994
+bị người cần vốn chi phối.
+
+310
+00:10:20,994 --> 00:10:22,780
+Dữ liệu phải có thể kiểm tra chéo.
+
+311
+00:10:22,780 --> 00:10:24,256
+Cảnh báo phải có đường đi độc lập.
+
+312
+00:10:24,256 --> 00:10:26,547
+Một quy trình với rất nhiều chữ ký vẫn có thể
+
+313
+00:10:26,547 --> 00:10:28,839
+thất bại nếu tất cả người ký đều hiểu rằng mình
+
+314
+00:10:28,839 --> 00:10:29,880
+không được phép nói không.
+
+315
+00:10:30,100 --> 00:10:32,438
+Bài học cuối cùng dành cho cả người làm tài chính
+
+316
+00:10:32,438 --> 00:10:33,288
+lẫn người đọc tin.
+
+317
+00:10:33,288 --> 00:10:35,535
+Đừng để một con số gây sốc thay thế việc hiểu
+
+318
+00:10:35,535 --> 00:10:36,557
+nó được tính thế nào.
+
+319
+00:10:36,557 --> 00:10:38,826
+Đừng coi một con dấu là bằng chứng đầy đủ cho
+
+320
+00:10:38,826 --> 00:10:39,651
+giá trị tài sản.
+
+321
+00:10:39,651 --> 00:10:41,941
+Và đừng coi giấy tờ dày là đồng nghĩa với an
+
+322
+00:10:41,941 --> 00:10:42,149
+toàn.
+
+323
+00:10:42,149 --> 00:10:44,460
+Chất lượng của kiểm soát nằm ở khả năng kiểm chứng
+
+324
+00:10:44,460 --> 00:10:44,880
+độc lập.
+
+325
+00:10:45,100 --> 00:10:47,205
+Khi lớp giấy cuối cùng được bóc đi, thứ còn lại
+
+326
+00:10:47,205 --> 00:10:48,353
+không phải một trò ảo thuật.
+
+327
+00:10:48,353 --> 00:10:50,406
+Đó là quyết định của con người, quyền lực thiếu đối
+
+328
+00:10:50,406 --> 00:10:52,459
+trọng và những cảnh báo đã không được xử lý đúng
+
+329
+00:10:52,459 --> 00:10:52,646
+lúc.
+
+330
+00:10:52,646 --> 00:10:54,787
+Đại án để lại một câu hỏi khó: ai có thể
+
+331
+00:10:54,787 --> 00:10:56,149
+chặn dòng tiền trước khi quá muộn?
+
+332
+00:10:56,149 --> 00:10:58,309
+Theo dõi Thế Giới Vô Hình để tiếp tục lần theo
+
+333
+00:10:58,309 --> 00:10:59,880
+những cơ chế phía sau các con số.
