@@ -1,5 +1,12 @@
 # The Invisible World — downloads
 
+## First Brands — The hidden paper trail
+
+- [Download First Brands MP4 — 56 seconds, 1080 × 1920](https://github.com/ltranngoc483-netizen/video/raw/refs/heads/video-downloads/downloads/first-brands-papertrail-56s-draft.mp4)
+- [Download editable Remotion project ZIP](https://github.com/ltranngoc483-netizen/video/raw/refs/heads/video-downloads/downloads/first-brands-papertrail-editable.zip)
+
+Navy/cyan tactile papercraft, 24 clause-driven visual beats, independently animated invoice copies, lenders, cash strips, stop-motion tower collapse, English captions and original sound design. Fraud mechanisms are presented as allegations; the invoice diagram is illustrative. Narration uses the previously approved local US male draft (Kokoro am_michael), not ElevenLabs Marcus. The closing Related Video CTA should lead to an actual First Brands investigation selected in YouTube Studio.
+
 ## Undersea Internet — 30-second Short
 
 - [Vertical 9:16 cover JPG](undersea-internet-thumbnail-9x16.jpg) · [Vertical cover original PNG](undersea-internet-thumbnail-9x16.png)
