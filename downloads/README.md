@@ -2,6 +2,8 @@
 
 ## Undersea Internet — 30-second Short
 
+- [Vertical 9:16 cover JPG](undersea-internet-thumbnail-9x16.jpg) · [Vertical cover original PNG](undersea-internet-thumbnail-9x16.png)
+
 - [Thumbnail JPG](undersea-internet-thumbnail.jpg) · [Original PNG](undersea-internet-thumbnail.png) · [English title, description and tags](undersea-internet-publishing.txt)
 
 - [Download TIGHT V3 MP4 — 26.3 seconds, 1080 × 1920](https://github.com/ltranngoc483-netizen/video/raw/refs/heads/video-downloads/downloads/invisible-world-undersea-short-tight-v3.mp4)
