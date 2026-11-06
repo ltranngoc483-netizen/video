@@ -1,5 +1,11 @@
 # The Invisible World — downloads
 
+## Undersea Internet — 30-second Short
+
+- [Download Undersea Internet Short MP4 — 30 seconds, 1080 × 1920](https://github.com/ltranngoc483-netizen/video/raw/refs/heads/video-downloads/downloads/invisible-world-undersea-short-30s-draft.mp4)
+
+**Does the Internet Really Travel Under the Ocean?** Four-scene navy/cyan papercraft diorama, English narration and captions, underwater/paper sound design, and Related Video CTA from 25–30 seconds. The local US male draft voice is Kokoro am_michael, not ElevenLabs Marcus. The 99% label refers to intercontinental data; fishing gear and anchors dominate the hazard scene, while shark incidents are marked historically rare. Attach the matching long video in YouTube Studio before posting; the illustrated arrow does not create a clickable link.
+
 ## Google.com — 30-second Short
 
 - [Download Google.com Short MP4 — 30 seconds, 1080 × 1920](https://github.com/ltranngoc483-netizen/video/raw/refs/heads/video-downloads/downloads/invisible-world-google-short-30s-draft.mp4)
