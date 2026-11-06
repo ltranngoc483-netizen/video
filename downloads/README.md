@@ -2,6 +2,8 @@
 
 ## First Brands — The hidden paper trail
 
+- [Portrait thumbnail JPG](first-brands-thumbnail-9x16.jpg) · [Original PNG](first-brands-thumbnail-9x16.png) · [English title, description and tags](first-brands-publishing.txt)
+
 - [Download First Brands MP4 — 56 seconds, 1080 × 1920](https://github.com/ltranngoc483-netizen/video/raw/refs/heads/video-downloads/downloads/first-brands-papertrail-56s-draft.mp4)
 - [Download editable Remotion project ZIP](https://github.com/ltranngoc483-netizen/video/raw/refs/heads/video-downloads/downloads/first-brands-papertrail-editable.zip)
 
