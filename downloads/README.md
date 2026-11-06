@@ -2,6 +2,10 @@
 
 ## Undersea Internet — 30-second Short
 
+- [Download MOTION V2 MP4 — 30 seconds, 1080 × 1920](https://github.com/ltranngoc483-netizen/video/raw/refs/heads/video-downloads/downloads/invisible-world-undersea-short-30s-motion-v2.mp4)
+
+**Motion V2:** sixteen speech-timed visual beats, unfolding waves, an animated globe route, satellite cutaway, peeling cable layers, optical pulses, a separately animated shark and descending anchor, a matched cable-break shot, and an unfolding CTA arrow. The narration and captions keep their original timing.
+
 - [Download Undersea Internet Short MP4 — 30 seconds, 1080 × 1920](https://github.com/ltranngoc483-netizen/video/raw/refs/heads/video-downloads/downloads/invisible-world-undersea-short-30s-draft.mp4)
 
 **Does the Internet Really Travel Under the Ocean?** Four-scene navy/cyan papercraft diorama, English narration and captions, underwater/paper sound design, and Related Video CTA from 25–30 seconds. The local US male draft voice is Kokoro am_michael, not ElevenLabs Marcus. The 99% label refers to intercontinental data; fishing gear and anchors dominate the hazard scene, while shark incidents are marked historically rare. Attach the matching long video in YouTube Studio before posting; the illustrated arrow does not create a clickable link.
