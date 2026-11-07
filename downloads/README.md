@@ -1,5 +1,14 @@
 # The Invisible World — downloads
 
+## The Unsolved Archive — Kuchisake-onna full documentary (latest)
+
+- [Tải MP4 đầy đủ — 11 phút, 1920×1080, 40 cảnh](https://github.com/ltranngoc483-netizen/video/raw/refs/heads/video-downloads/downloads/unsolved-archive-kuchisake-full-11min-1080p.mp4)
+- [SRT tiếng Anh — 254 cụm](kuchisake-documentary-en.srt) · [Kịch bản 40 cảnh và thời gian thực tế](kuchisake-documentary-script.md)
+- [Thumbnail A: JAPAN, 1979](kuchisake-documentary-thumbnail-a.jpg) · [Thumbnail B: AM I PRETTY?](kuchisake-documentary-thumbnail-b.jpg)
+- [Dự án chỉnh sửa ZIP](unsolved-archive-kuchisake-documentary-editable.zip) · [Title, description, tags](kuchisake-documentary-publishing.txt) · [Production notes](kuchisake-documentary-production-notes.md)
+
+Complete 660-second landscape documentary draft in four acts at 00:00 /02:30 /05:30 /08:30. Forty authored scenes, photographic papercraft environments, 92 independent foreground layers, paper wipes and English narration/captions. Local US male draft voice is Kokoro am_michael, not ElevenLabs Marcus. The samurai origin is folklore, social explanations are interpretations, archive-like images are illustrated reconstructions and the Himeji account is secondary/unestablished here. Publication references are not proof of a ghost. This long film can be attached as the matching Related Video after it is actually published to YouTube.
+
 ## The Unsolved Archive — Kuchisake-onna (latest)
 
 - [Tải MP4 30 giây](https://github.com/ltranngoc483-netizen/video/raw/refs/heads/video-downloads/downloads/kuchisake-onna-unsolved-archive-30s.mp4)
