@@ -1,6 +1,14 @@
 # The Invisible World — downloads
 
-## Camera 150K — complete with supplied narration (latest)
+## Camera 150K — new cinematic papercraft V3 (latest)
+
+- [Tải MP4 V3 — hình giấy 3D mới, giọng 1107.MP3](https://github.com/ltranngoc483-netizen/video/raw/refs/heads/video-downloads/downloads/camera-150k-cinematic-v3-1107.mp4)
+- [Xem một khung hình V3](camera-150k-cinematic-v3-preview.jpg) · [Ghi chú V3](camera-150k-cinematic-v3-notes.md)
+- [Phụ đề SRT — cùng thời gian với V2](camera-150k-phu-de-1107-v2.srt)
+
+Twelve new photographic papercraft assets with thick torn edges and physical shadows; fifteen scenes, layered object animation, macro cuts and native 30 fps. Full 60.07-second 1080×1920 MP4 retains the user's 1107.MP3 and its 38 caption groups.
+
+## Camera 150K — complete with supplied narration (V2)
 
 - [Tải MP4 hoàn chỉnh — giọng đọc 1107.MP3](https://github.com/ltranngoc483-netizen/video/raw/refs/heads/video-downloads/downloads/camera-150k-hoan-chinh-1107-v2.mp4)
 - [SRT V2 — 38 cụm theo lời đọc](camera-150k-phu-de-1107-v2.srt) · [Ghi chú V2](camera-150k-1107-v2-notes.md)
