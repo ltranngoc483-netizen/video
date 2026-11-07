@@ -1,5 +1,14 @@
 # The Invisible World — downloads
 
+## Latest — voice replacement and camera preview
+
+- [Vạn Thịnh Phát MP4 V2 — user-supplied 1103.MP3 narration](https://github.com/ltranngoc483-netizen/video/raw/refs/heads/video-downloads/downloads/van-thinh-phat-11min-giong-moi-v2.mp4)
+- [Vạn Thịnh Phát SRT V2 — 333 retimed captions](van-thinh-phat-phu-de-giong-moi-v2.srt) · [V2 editing notes](van-thinh-phat-giong-moi-v2-notes.md)
+- [Camera 150K — 60-second visual/SFX preview, NO narration](https://github.com/ltranngoc483-netizen/video/raw/refs/heads/video-downloads/downloads/camera-150k-60s-hinh-sfx-preview.mp4)
+- [Camera clean narration text](camera-150k-loi-binh.txt) · [Camera preview notes](camera-150k-preview-notes.md)
+
+VTP V2 uses the user's uploaded audio; the original local TTS voice is absent. New subtitle timing is based on Vietnamese ASR alignment, and the final shot is extended to include the full 11:00.4 recording. Camera is a separate new Short project: 15 animated scenes and original SFX, with reference text on screen. It still needs a matching camera narration MP3; the VTP recording is not used for it. Camera movement is not evidence of compromise; risks are conditional and no specific product is tested or accused.
+
 ## Vạn Thịnh Phát – SCB — 11-minute Vietnamese documentary
 
 - [Tải MP4 đầy đủ — 11 phút, 1920 × 1080](https://github.com/ltranngoc483-netizen/video/raw/refs/heads/video-downloads/downloads/van-thinh-phat-full-11min-1080p.mp4)
