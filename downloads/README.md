@@ -1,6 +1,14 @@
 # The Invisible World — downloads
 
-## TECH UNMASKED — GPS mini 50K (latest; picture/SFX only)
+## GPS mini 50K — complete with supplied narration V2 (latest)
+
+- [Tải MP4 GPS hoàn chỉnh — giọng đọc MP3 mới](https://github.com/ltranngoc483-netizen/video/raw/refs/heads/video-downloads/downloads/gps-50k-hoan-chinh-1107-v2.mp4)
+- [SRT V2 theo lời đọc thực tế](gps-50k-phu-de-1107-v2.srt) · [Ghi chú V2](gps-50k-1107-v2-notes.md)
+- [Thumbnail dọc](gps-50k-thumbnail-9x16.png) · [Tiêu đề, mô tả và tag](gps-50k-publishing.txt)
+
+Uses the newly supplied 30.04-second GPS recording, with unchanged voice tempo/pitch, reduced original music/SFX and 15 aligned caption phrases with cyan word highlights. Papercraft scene/cut timing follows the actual narration. Delivery: approximately 30.07 seconds, 902 frames, 1080×1920 H.264/AAC at 30 fps.
+
+## TECH UNMASKED — GPS mini 50K (bản hình/SFX trước)
 
 - [Tải MP4 30 giây — hình, nhạc và SFX; chưa có lời đọc](https://github.com/ltranngoc483-netizen/video/raw/refs/heads/video-downloads/downloads/gps-50k-30s-hinh-sfx.mp4)
 - [4 ảnh PNG 1080×1920 cho CapCut](gps-50k-4-scenes-1080x1920.zip) · [Thumbnail dọc](gps-50k-thumbnail-9x16.png)

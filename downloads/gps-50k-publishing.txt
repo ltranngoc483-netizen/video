@@ -23,6 +23,7 @@ THUMBNAIL
 GPS THẬT? / 50K — ảnh minh họa dọc 1080 x 1920. Thiết kế dùng câu hỏi, không tuyên bố mọi mẫu 50K đều thiếu GPS. Các concept khác: CHẤM ĐỎ LỆCH ĐÂU? (sa bàn LBS); CHỈ CÓ 2G? (khả năng kết nối).
 
 TRẠNG THÁI
-MP4 gps-50k-30s-hinh-sfx.mp4 có hình chuyển động, nhạc synth nguyên bản và SFX, CHƯA CÓ LỜI ĐỌC theo lựa chọn người dùng. Không tạo giọng AI hay gọi ElevenLabs. Chưa đốt phụ đề lời bình vào hình để thuận tiện căn theo MP3 sau.
-SRT gps-50k-vi-timing-draft.srt gồm 15 nhịp dự kiến; cần căn lại theo audio thật.
+Bản hoàn chỉnh mới: gps-50k-hoan-chinh-1107-v2.mp4, khoảng 30.07 giây, 1080 x 1920, 30 fps. Dùng file GPS 1107 (1).MP3 mới do người dùng cung cấp, giữ tốc độ/cao độ; nhạc/SFX thấp. Không tạo giọng mới hay gọi ElevenLabs.
+SRT theo giọng thật: gps-50k-phu-de-1107-v2.srt, 15 cụm. MP4 có tô từ cyan; SRT là chữ và thời gian tiêu chuẩn. Bản chia nhịp dự kiến trước đó không phải SRT mới.
+Bản gps-50k-30s-hinh-sfx.mp4 là phiên bản cũ chỉ có hình, nhạc và SFX, vẫn giữ để chỉnh sửa.
 CTA Video liên quan chỉ dùng khi đã có video dài phù hợp và đã gắn trong YouTube Studio. PNG riêng không tự trở thành ảnh bìa Shorts; dùng công cụ chọn ảnh/khung hình được YouTube hỗ trợ.
