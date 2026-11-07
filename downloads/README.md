@@ -2,6 +2,8 @@
 
 ## Latest — voice replacement and camera preview
 
+- [Camera 150K portrait thumbnail JPG](camera-150k-thumbnail-9x16.jpg) · [PNG](camera-150k-thumbnail-9x16.png) · [Vietnamese title, description and tags](camera-150k-publishing.txt)
+
 - [Vạn Thịnh Phát MP4 V2 — user-supplied 1103.MP3 narration](https://github.com/ltranngoc483-netizen/video/raw/refs/heads/video-downloads/downloads/van-thinh-phat-11min-giong-moi-v2.mp4)
 - [Vạn Thịnh Phát SRT V2 — 333 retimed captions](van-thinh-phat-phu-de-giong-moi-v2.srt) · [V2 editing notes](van-thinh-phat-giong-moi-v2-notes.md)
 - [Camera 150K — 60-second visual/SFX preview, NO narration](https://github.com/ltranngoc483-netizen/video/raw/refs/heads/video-downloads/downloads/camera-150k-60s-hinh-sfx-preview.mp4)
