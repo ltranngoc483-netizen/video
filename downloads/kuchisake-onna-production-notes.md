@@ -1,4 +1,4 @@
-# The Invisible World — Kuchisake-onna
+# The Unsolved Archive — Kuchisake-onna
 
 30-second English portrait Short, 1080×1920, 30 fps. Four Remotion scenes with photographic tactile paper artwork, independent paper-figure movement, matching high-resolution masked/unmasked portraits, moving mask, unfolding origin scroll, UNVERIFIED LEGEND stamp, paper-page movement, independently composited escorted school group and CTA from 25–30 seconds. Transforms use a 15-step-per-second stop-motion cadence inside the 30 fps delivery.
 
@@ -19,3 +19,7 @@ Attach an actual matching long documentary as Related Video in YouTube Studio be
 `npm ci` in a fresh checkout, then `npm run dev` on port3014. Main composition KuchisakeShort; individual Encounter, Origin, Panic and Funnel compositions are editable too. Five Stills export the four complete labelled hero frames and the portrait thumbnail, all 1080×1920. Original images and clean plates are in public. DejaVu font license is in public/licenses.
 
 Render the main composition muted to out/kuchisake-native.mp4; run scripts/finalize.py to mux audio. scripts/validate.py needs numpy and soundfile. scripts/inspect.cjs and inspect-refine.cjs use an environment-specific Chromium wrapper path; substitute an installed Chrome path elsewhere. scripts/voice.py additionally needs Kokoro ONNX dependencies and external model files, which are not bundled. Generated WAV narration is included so model downloads are not needed to edit or render the finished project.
+
+## Channel update
+
+The current release is branded THE UNSOLVED ARCHIVE in every scene and CTA. The former channel tagline has been replaced with the episode title KUCHISAKE-ONNA. Narration, timing, captions, sound effects and artwork remain the same; rebranding changes only the channel text, CTA typography and related publishing metadata. scripts/finalize-rebrand.py retains the exact AAC audio packets from the previous completed MP4.
