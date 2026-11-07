@@ -1,0 +1,26 @@
+TITLE
+What Really Happens When You Scan a QR Code?
+
+ALTERNATIVE TITLE
+One QR Scan. What Happens Next?
+
+DESCRIPTION
+Your phone spots three finder patterns, reads a grid of data, and decodes what it contains. That could be a web address or payment information.
+
+For payments, scanning is only the start. The app and financial systems must check the details and authorize the transaction. A scan alone does not confirm that money has moved.
+
+Explore the hidden journey in 30 seconds with THE INVISIBLE WORLD.
+
+#QRCode #HowItWorks #Technology #TheInvisibleWorld #Shorts
+
+TAGS
+QR code, how QR codes work, scan QR code, QR code explained, QR code payment, mobile payments, digital payments, finder patterns, data decoding, smartphone technology, technology explained, papercraft animation, The Invisible World, tech shorts
+
+THUMBNAIL
+MORE THAN A SCAN — vertical 1080 x 1920, physical paper QR and phone, navy/cyan. Alternative concepts: THREE SQUARES (macro finder pattern); SCAN ≠ PAID (payment authorization gates). Current image uses MORE THAN A SCAN, matching the full decoding-to-payment journey without implying all scans initiate a payment.
+
+PRODUCTION
+The 30-second MP4 uses a local US male Kokoro am_michael draft voice, NOT ElevenLabs Marcus. The four new artwork images and thumbnail are illustrative. Stop-motion cadence is sampled at 15 steps/sec inside a 30 fps file.
+
+RELATED VIDEO
+Select an actual matching QR documentary as the Short's Related Video in YouTube Studio. The cyan arrow does not make a link by itself. A separate PNG is not automatically the Shorts cover; use YouTube's supported cover/frame controls.

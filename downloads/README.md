@@ -1,5 +1,14 @@
 # The Invisible World — downloads
 
+## QR code — 30-second papercraft Short (latest)
+
+- [Tải MP4 QR — đủ 30 giây](https://github.com/ltranngoc483-netizen/video/raw/refs/heads/video-downloads/downloads/invisible-world-qr-short-30s-draft.mp4)
+- [Bộ 4 ảnh PNG 1080×1920 cho CapCut](qr-code-4-scenes-1080x1920.zip)
+- [Thumbnail dọc](qr-thumbnail-9x16.png) · [SRT tiếng Anh](qr-short-en.srt)
+- [Title, description, tags](qr-code-publishing.txt) · [Production notes](qr-code-production-notes.md) · [Editable Remotion project](qr-code-remotion-editable.zip)
+
+Four new photographic papercraft dioramas, independently animated finder/module/verification details, macro shot changes, paper transitions and CTA at 25–30 seconds. Full 1080×1920 H.264/AAC MP4 with English captions and sound design. Narrator is the locally generated US male Kokoro am_michael draft voice, not ElevenLabs Marcus. Scanning does not by itself confirm a payment. Related Video requires attaching an actual matching long video in YouTube Studio.
+
 ## Camera 150K — new cinematic papercraft V3 (latest)
 
 - [Tải MP4 V3 — hình giấy 3D mới, giọng 1107.MP3](https://github.com/ltranngoc483-netizen/video/raw/refs/heads/video-downloads/downloads/camera-150k-cinematic-v3-1107.mp4)

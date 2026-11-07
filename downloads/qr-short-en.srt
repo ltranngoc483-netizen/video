@@ -1,0 +1,63 @@
+1
+00:00:00,100 --> 00:00:01,050
+One scan.
+
+2
+00:00:01,050 --> 00:00:03,025
+Three squares lock into focus.
+
+3
+00:00:03,025 --> 00:00:04,950
+What did your phone just unlock?
+
+4
+00:00:05,100 --> 00:00:06,682
+Those squares aren't magic.
+
+5
+00:00:06,682 --> 00:00:07,850
+They store data.
+
+6
+00:00:07,850 --> 00:00:09,208
+Maybe a web address.
+
+7
+00:00:09,208 --> 00:00:10,721
+Maybe payment details.
+
+8
+00:00:10,721 --> 00:00:12,524
+Your phone decodes the pattern...
+
+9
+00:00:12,524 --> 00:00:14,950
+before the network journey even begins.
+
+10
+00:00:15,100 --> 00:00:17,183
+For payments, the app sends a request.
+
+11
+00:00:17,183 --> 00:00:19,498
+Financial systems check the details
+
+12
+00:00:19,498 --> 00:00:21,333
+and authorize the transaction.
+
+13
+00:00:21,333 --> 00:00:22,660
+But scanning alone...
+
+14
+00:00:22,660 --> 00:00:24,950
+never guarantees the money has moved.
+
+15
+00:00:25,100 --> 00:00:27,544
+One scan. An invisible journey.
+
+16
+00:00:27,544 --> 00:00:29,304
+See the full story below.
