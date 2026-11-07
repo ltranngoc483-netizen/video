@@ -1,5 +1,13 @@
 # The Invisible World — downloads
 
+## Camera 150K — complete with supplied narration (latest)
+
+- [Tải MP4 hoàn chỉnh — giọng đọc 1107.MP3](https://github.com/ltranngoc483-netizen/video/raw/refs/heads/video-downloads/downloads/camera-150k-hoan-chinh-1107-v2.mp4)
+- [SRT V2 — 38 cụm theo lời đọc](camera-150k-phu-de-1107-v2.srt) · [Ghi chú V2](camera-150k-1107-v2-notes.md)
+- [Thumbnail 9:16](camera-150k-thumbnail-9x16.jpg) · [Tiêu đề, mô tả và tag](camera-150k-publishing.txt)
+
+Complete vertical video, about 60.07 seconds, 1080×1920, 15 scenes. Uses the user's 1107.MP3 without changing pitch or speech tempo, low paper SFX, phrase-based Vietnamese captions and cyan word highlighting. Camera turn and shield entrances follow the spoken keywords. Native stop-motion cadence is 15 fps; delivery is 30 fps with duplicated frames. This replaces the earlier visual/SFX-only preview as the finished camera version.
+
 ## Latest — voice replacement and camera preview
 
 - [Camera 150K portrait thumbnail JPG](camera-150k-thumbnail-9x16.jpg) · [PNG](camera-150k-thumbnail-9x16.png) · [Vietnamese title, description and tags](camera-150k-publishing.txt)

@@ -24,6 +24,7 @@ Chữ: AI ĐANG XEM?
 Ảnh minh họa 3D giấy cắt dán, camera không gắn thương hiệu, navy/cyan, 941 x 1672 px (gần 9:16). Mắt đỏ là lựa chọn thị giác, không phải dấu hiệu xác nhận thiết bị bị chiếm quyền.
 
 TRẠNG THÁI VIDEO
-camera-150k-60s-hinh-sfx-preview.mp4: 60 giây, 15 cảnh, 1080 x 1920, hình/chữ/SFX; chưa có lời bình.
-Lời bình sạch: camera-150k-loi-binh.txt. Cần MP3 lời đọc camera để hoàn thiện, không sử dụng MP3 1103 của phim Vạn Thịnh Phát.
+Bản hoàn chỉnh: camera-150k-hoan-chinh-1107-v2.mp4, khoảng 60.07 giây, 15 cảnh, 1080 x 1920. Lời đọc lấy trực tiếp từ MP3 1107 người dùng cung cấp, SFX thấp và 38 cụm phụ đề theo lời nói. Không tạo giọng mới hoặc xác nhận dịch vụ đã tạo MP3.
+SRT mới: camera-150k-phu-de-1107-v2.srt. Tô từ cyan có trong MP4; SRT là chữ và thời gian tiêu chuẩn.
+Bản hình/SFX chưa có giọng là bản xem trước cũ, vẫn giữ để so sánh.
 Chỉ dùng CTA Video liên quan khi đã có video dài thực sự về camera/bảo mật và đã gắn trong YouTube Studio. Ảnh bìa Shorts thường cần chọn từ khung hình video bằng công cụ YouTube; JPG riêng không tự trở thành ảnh bìa.
