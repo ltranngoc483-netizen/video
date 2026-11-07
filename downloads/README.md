@@ -1,5 +1,14 @@
 # The Invisible World — downloads
 
+## TECH UNMASKED — GPS mini 50K (latest; picture/SFX only)
+
+- [Tải MP4 30 giây — hình, nhạc và SFX; chưa có lời đọc](https://github.com/ltranngoc483-netizen/video/raw/refs/heads/video-downloads/downloads/gps-50k-30s-hinh-sfx.mp4)
+- [4 ảnh PNG 1080×1920 cho CapCut](gps-50k-4-scenes-1080x1920.zip) · [Thumbnail dọc](gps-50k-thumbnail-9x16.png)
+- [SRT chia nhịp dự kiến, chưa căn theo giọng thật](gps-50k-vi-timing-draft.srt) · [Lời bình dự kiến](gps-50k-loi-binh-du-kien.txt)
+- [Tiêu đề, mô tả, tag](gps-50k-publishing.txt) · [Ghi chú sản xuất](gps-50k-production-notes.md) · [Editable Remotion project](gps-50k-remotion-editable.zip)
+
+User explicitly selected picture/SFX only for later male narration. Four photographic papercraft scenes with independently moving lid/SIM and tower pieces, macro shot changes, example LBS distance, split 2G label and Related Video CTA. Full speech subtitles remain external for later retiming. 3 KM and price are illustrative; no unverified national 2G shutdown date is asserted. Output is 30 seconds, 1080×1920, 30 fps H.264/AAC.
+
 ## QR code — 30-second papercraft Short (latest)
 
 - [Tải MP4 QR — đủ 30 giây](https://github.com/ltranngoc483-netizen/video/raw/refs/heads/video-downloads/downloads/invisible-world-qr-short-30s-draft.mp4)
