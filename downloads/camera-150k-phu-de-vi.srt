@@ -1,0 +1,59 @@
+﻿1
+00:00:00,000 --> 00:00:04,000
+Nửa đêm... chiếc camera trong phòng ngủ bất ngờ quay đầu.
+
+2
+00:00:04,000 --> 00:00:08,000
+Bạn không chạm vào điện thoại. Vậy... ai ra lệnh?
+
+3
+00:00:08,000 --> 00:00:12,000
+Chiếc camera này... giá chỉ một trăm năm mươi nghìn đồng.
+
+4
+00:00:12,000 --> 00:00:16,000
+Bên trong vẫn có chip xử lý, Wi-Fi và cảm biến hình ảnh.
+
+5
+00:00:16,000 --> 00:00:20,000
+Nhưng có một thứ đôi khi bị cắt giảm... bảo mật.
+
+6
+00:00:20,000 --> 00:00:24,000
+Cổng gỡ lỗi không được bảo vệ... có thể trở thành điểm yếu.
+
+7
+00:00:24,000 --> 00:00:28,000
+Thông tin lưu thiếu an toàn... có nguy cơ bị đọc trộm.
+
+8
+00:00:28,000 --> 00:00:32,000
+Mật khẩu mặc định yếu... có thể mở thêm một cánh cửa.
+
+9
+00:00:32,000 --> 00:00:36,000
+Không có bản vá... lỗ hổng cũ vẫn tồn tại.
+
+10
+00:00:36,000 --> 00:00:40,000
+Dữ liệu đi qua router... tới máy chủ trung gian.
+
+11
+00:00:40,000 --> 00:00:44,000
+Kết nối ấy có thể hợp pháp. Nhưng ai được xem dữ liệu?
+
+12
+00:00:44,000 --> 00:00:48,000
+Thiết bị bị chiếm quyền... có thể trở thành một phần của botnet.
+
+13
+00:00:48,000 --> 00:00:52,000
+Và các thiết bị dùng chung mạng... cũng có thể gặp nguy hiểm.
+
+14
+00:00:52,000 --> 00:00:56,000
+Đổi mật khẩu. Cập nhật firmware. Tách riêng mạng thiết bị thông minh.
+
+15
+00:00:56,000 --> 00:01:00,000
+Chiếc camera thực sự giấu điều gì? Xem bản điều tra đầy đủ bên dưới.
