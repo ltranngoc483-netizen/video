@@ -3,7 +3,7 @@
 ## The Unsolved Archive — Kuchisake-onna (latest)
 
 - [Tải MP4 30 giây](https://github.com/ltranngoc483-netizen/video/raw/refs/heads/video-downloads/downloads/kuchisake-onna-unsolved-archive-30s.mp4)
-- [4 ảnh PNG 1080×1920](kuchisake-onna-unsolved-archive-4-scenes.zip) · [Thumbnail dọc](kuchisake-thumbnail-9x16.png)
+- [4 ảnh PNG 1080×1920](kuchisake-onna-unsolved-archive-4-scenes.zip) · [Thumbnail JPG có tên kênh](kuchisake-unsolved-archive-thumbnail-9x16.jpg) · [PNG](kuchisake-unsolved-archive-thumbnail-9x16.png)
 - [SRT tiếng Anh](kuchisake-onna-en.srt) · [Title, description, tags](kuchisake-onna-publishing.txt)
 - [Editable Remotion project](kuchisake-onna-unsolved-archive-editable.zip) · [Production notes](kuchisake-onna-production-notes.md)
 
