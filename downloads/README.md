@@ -1,5 +1,12 @@
 # The Invisible World — downloads
 
+## Send a Message — publishing copy and thumbnail
+
+- [Title, description and YouTube tags](message-journey-publishing.txt)
+- [WHAT HAPPENS NEXT? thumbnail JPG](message-journey-thumbnail-9x16.jpg) · [Original PNG](message-journey-thumbnail-9x16.png)
+
+Portrait941×1672px, approximately9:16; THE INVISIBLE WORLD branding, tactile navy/cream paper and cyan data. No guaranteed ocean route, universal E2EE, travel distance or latency claim.
+
 ## THE INVISIBLE WORLD — Send a Message
 
 - [MP4 30giây,1080×1920](https://github.com/ltranngoc483-netizen/video/raw/refs/heads/video-downloads/downloads/message-journey-30s.mp4)
