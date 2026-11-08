@@ -1,5 +1,12 @@
 # The Invisible World — downloads
 
+## Bút ghi âm150K — nội dung đăng và thumbnail mới
+
+- [Tiêu đề, mô tả, thẻ tag](recorder-150k-publishing.txt)
+- [Thumbnail ĐỪNG VỘI TIN! JPG](recorder-150k-thumbnail-dung-voi-tin-9x16.jpg) · [PNG gốc](recorder-150k-thumbnail-dung-voi-tin-9x16.png)
+
+Ảnh dọc941×1672px (gần9:16), chất liệu giấy cắt dán, thương hiệu TECH UNMASKED. Giá150K là mức trong kịch bản, chưa phải khảo sát thị trường; ảnh ghi rõ mô hình minh họa. Không tuyên bố đã đo thử hay xác nhận các quảng cáo48giờ/xuyên tường.
+
 ## TECH UNMASKED — Bút ghi âm 150K, ghép giọng MP3
 
 - [MP4 hoàn chỉnh có giọng đọc](https://github.com/ltranngoc483-netizen/video/raw/refs/heads/video-downloads/downloads/recorder-150k-hoan-chinh-1107.mp4)
