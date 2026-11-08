@@ -1,5 +1,13 @@
 # The Invisible World — downloads
 
+## TECH UNMASKED — Solar power bank99K (hình/SFX)
+
+- [MP4 30giây,1080×1920](https://github.com/ltranngoc483-netizen/video/raw/refs/heads/video-downloads/downloads/solar-99k-30s-hinh-sfx.mp4)
+- [4 PNG dọc riêng](solar-99k-4-scenes.zip) · [SRT tiếng Việt dự kiến](solar-99k-vi-timing-draft.srt)
+- [Nhạc/SFX tách riêng và lời đọc](solar-99k-audio-stems.zip) · [Dự án chỉnh sửa](solar-99k-editable.zip) · [Ghi chú](solar-99k-production-notes.md)
+
+Bản hình/SFX, **chưa có giọng đọc**; SRT là canh thời gian dự kiến để ghép giọng nam sau. Cảnh độn cát/sắt là tái dựng, không phải kết quả tháo mẫu99K cụ thể.50Ah ×3,7V =185Wh chỉ nếu dung lượng đúng ở điện áp danh định đó, không phải năng lượng USB đầu ra được cam kết. Không có công suất/thời gian sạc đo thực hoặc khẳng định pin chắc chắn cháy nổ.
+
 ## Send a Message — publishing copy and thumbnail
 
 - [Title, description and YouTube tags](message-journey-publishing.txt)
