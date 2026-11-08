@@ -1,5 +1,14 @@
 # The Invisible World — downloads
 
+## TECH UNMASKED — Bút ghi âm 150K (hình/SFX)
+
+- [Tải MP4 dọc 30 giây, 1080×1920](https://github.com/ltranngoc483-netizen/video/raw/refs/heads/video-downloads/downloads/recorder-150k-30s-hinh-sfx.mp4)
+- [4 ảnh PNG riêng](recorder-150k-4-scenes.zip) · [Cover dọc](recorder-150k-thumbnail-9x16.png)
+- [SRT tiếng Việt dự kiến](recorder-150k-vi-timing-draft.srt) · [Nhạc/SFX tách riêng + lời đọc](recorder-150k-audio-stems.zip)
+- [Dự án chỉnh sửa](recorder-150k-editable.zip) · [Ghi chú sản xuất](recorder-150k-production-notes.md)
+
+13 nhịp hình, cận micro/pin/chip, kính lúp chuyển động, sóng âm cyan và nhiễu đỏ, chuyển cảnh giấy và CTA25–30 giây. **Chưa có giọng đọc** theo lựa chọn của người dùng. SRT là bản canh thời gian dự kiến, cần căn lại theo audio giọng nam sau. Linh kiện, tiếng cọ áo và sóng âm đều minh họa, chưa phải phép đo hoặc teardown một mẫu thật. Không xác nhận khả năng xuyên tường, pin48 giờ hay mọi thiết bị150K đều kém chất lượng.
+
 ## The Unsolved Archive — Kuchisake-onna full documentary (latest)
 
 - [Tải MP4 đầy đủ — 11 phút, 1920×1080, 40 cảnh](https://github.com/ltranngoc483-netizen/video/raw/refs/heads/video-downloads/downloads/unsolved-archive-kuchisake-full-11min-1080p.mp4)
