@@ -1,5 +1,12 @@
 # The Invisible World — downloads
 
+## TECH UNMASKED — Bút ghi âm 150K, ghép giọng MP3
+
+- [MP4 hoàn chỉnh có giọng đọc](https://github.com/ltranngoc483-netizen/video/raw/refs/heads/video-downloads/downloads/recorder-150k-hoan-chinh-1107.mp4)
+- [SRT theo MP3 mới](recorder-150k-phu-de-1107.srt) · [Dự án chỉnh sửa có audio gốc](recorder-150k-ghep-giong-1107-editable.zip) · [Ghi chú](recorder-150k-1107-notes.md)
+
+Ghép đúng file1107 (1)(1).MP3, giữ nguyên tốc độ/cao độ lời đọc. 18 cụm phụ đề theo lời thực tế, tô cyan từng từ; chuyển cảnh khoảng0/4.93/13.43/20.73giây, kết thúc24.63giây. Nhạc/SFX giảm nền còn12%; không kéo dài phần đuôi lên30giây. CTA từ lúc lời mời xem tiếp tới hết bản đọc, khoảng3.9giây. Bản hình/SFX ban đầu vẫn có ở mục bên dưới.
+
 ## TECH UNMASKED — Bút ghi âm 150K (hình/SFX)
 
 - [Tải MP4 dọc 30 giây, 1080×1920](https://github.com/ltranngoc483-netizen/video/raw/refs/heads/video-downloads/downloads/recorder-150k-30s-hinh-sfx.mp4)
