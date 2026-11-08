@@ -1,0 +1,47 @@
+1
+00:00:00,100 --> 00:00:01,141
+You hit Send.
+
+2
+00:00:01,141 --> 00:00:03,305
+Your words become digital data,
+
+3
+00:00:03,305 --> 00:00:04,950
+not a floating chat bubble.
+
+4
+00:00:05,100 --> 00:00:07,139
+With end-to-end encryption,
+
+5
+00:00:07,139 --> 00:00:09,479
+your phone locks the contents.
+
+6
+00:00:09,479 --> 00:00:13,395
+Even the servers carrying it cannot read the message.
+
+7
+00:00:15,100 --> 00:00:19,425
+Data packets cross routers and fiber-optic cables.
+
+8
+00:00:19,425 --> 00:00:22,406
+Some messages cross entire oceans,
+
+9
+00:00:22,406 --> 00:00:24,950
+as flashes of light through glass.
+
+10
+00:00:25,100 --> 00:00:26,651
+Your friend receives it.
+
+11
+00:00:26,651 --> 00:00:27,920
+The full journey?
+
+12
+00:00:27,920 --> 00:00:29,950
+Tap the related video below.

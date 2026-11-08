@@ -1,5 +1,13 @@
 # The Invisible World — downloads
 
+## THE INVISIBLE WORLD — Send a Message
+
+- [MP4 30giây,1080×1920](https://github.com/ltranngoc483-netizen/video/raw/refs/heads/video-downloads/downloads/message-journey-30s.mp4)
+- [4 PNG dọc riêng](message-journey-4-scenes.zip) · [SRT tiếng Anh](message-journey-en.srt)
+- [Dự án chỉnh sửa](message-journey-editable.zip) · [Ghi chú kỹ thuật và giọng đọc](message-journey-production-notes.md)
+
+Send → E2EE → physical network → delivered, với14 nhịp hình, khối dữ liệu/phong bì/bánh răng chuyển động độc lập, xung sáng trong cáp, chuyển cảnh giấy và CTA25–30giây. Giọng nam Mỹ trầm cục bộ Kokoro am_michael, chưa phải ElevenLabs Marcus. E2EE chỉ cho dịch vụ hỗ trợ, bảo vệ nội dung theo mô hình; không đồng nghĩa mọi metadata đều ẩn. Một tin nhắn không nhất thiết qua đại dương; không có số đo tuyến/độ trễ được cam kết. Gắn Related Video phù hợp sau khi đã có phim dài tương ứng.
+
 ## The Unsolved Archive — Bell Witch thumbnail and publishing copy
 
 - [Title, description and YouTube tags](bell-witch-unsolved-archive-publishing.txt)
