@@ -1,5 +1,12 @@
 # The Invisible World — downloads
 
+## Bell Witch — title, description, tags and thumbnail
+
+- [Title, description and YouTube tags](bell-witch-publishing.txt)
+- [WHERE’S THE PROOF? thumbnail JPG](bell-witch-thumbnail-proof-9x16.jpg) · [Original PNG](bell-witch-thumbnail-proof-9x16.png)
+
+Portrait941×1672px, approximately9:16; tactile paper, navy/cyan/cream, THE INVISIBLE WORLD branding. The folio and spectral hand are folklore illustrations, not primary historical evidence. Title questions the conviction claim and the description distinguishes legend from the records not provided here.
+
 ## THE INVISIBLE WORLD — Bell Witch
 
 - [MP4 30giây,1080×1920, có giọng đọc bản nháp](https://github.com/ltranngoc483-netizen/video/raw/refs/heads/video-downloads/downloads/bell-witch-30s.mp4)
