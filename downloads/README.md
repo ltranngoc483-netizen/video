@@ -1,5 +1,12 @@
 # The Invisible World — downloads
 
+## TECH UNMASKED — Solar99K title,description,tags and thumbnail
+
+- [Tiêu đề,mô tả và thẻ tag](solar-99k-publishing.txt)
+- [Thumbnail50.000mAh? THẬT SAO? JPG](solar-99k-thumbnail-9x16.jpg) · [PNG gốc](solar-99k-thumbnail-9x16.png)
+
+Ảnh dọc941×1672px,gần9:16,thương hiệu TECH UNMASKED. Câu hỏi về quảng cáo dung lượng,không khẳng định đo được185Wh hay tìm thấy cát trong mẫu99K cụ thể. Không có cảnh cháy/nổ trên thumbnail.
+
 ## TECH UNMASKED — Solar99K, bản có giọng1108.MP3
 
 - [MP4 hoàn chỉnh có giọng đọc](https://github.com/ltranngoc483-netizen/video/raw/refs/heads/video-downloads/downloads/solar-99k-hoan-chinh-1108.mp4)
