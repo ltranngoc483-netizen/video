@@ -1,11 +1,11 @@
 # The Invisible World — downloads
 
-## Bell Witch — title, description, tags and thumbnail
+## The Unsolved Archive — Bell Witch thumbnail and publishing copy
 
-- [Title, description and YouTube tags](bell-witch-publishing.txt)
-- [WHERE’S THE PROOF? thumbnail JPG](bell-witch-thumbnail-proof-9x16.jpg) · [Original PNG](bell-witch-thumbnail-proof-9x16.png)
+- [Title, description and YouTube tags](bell-witch-unsolved-archive-publishing.txt)
+- [WHERE’S THE PROOF? thumbnail JPG](bell-witch-unsolved-archive-thumbnail-9x16.jpg) · [PNG](bell-witch-unsolved-archive-thumbnail-9x16.png)
 
-Portrait941×1672px, approximately9:16; tactile paper, navy/cyan/cream, THE INVISIBLE WORLD branding. The folio and spectral hand are folklore illustrations, not primary historical evidence. Title questions the conviction claim and the description distinguishes legend from the records not provided here.
+Portrait paper-craft thumbnail, navy/cyan/cream, corrected THE UNSOLVED ARCHIVE branding. The folio and spectral hand are folklore illustrations, not primary historical evidence. Title questions the conviction claim and the description distinguishes legend from the records not provided here.
 
 ## THE INVISIBLE WORLD — Bell Witch
 
