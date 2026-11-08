@@ -1,5 +1,12 @@
 # The Invisible World — downloads
 
+## TECH UNMASKED — Solar99K, bản có giọng1108.MP3
+
+- [MP4 hoàn chỉnh có giọng đọc](https://github.com/ltranngoc483-netizen/video/raw/refs/heads/video-downloads/downloads/solar-99k-hoan-chinh-1108.mp4)
+- [SRT theo bản thu1108](solar-99k-phu-de-1108.srt) · [Dự án có audio gốc](solar-99k-ghep-giong-1108-editable.zip) · [Ghi chú](solar-99k-1108-notes.md)
+
+Giữ nguyên lời đọc,tốc độ và cao độ của1108.MP3;724khung hình,24.13giây,1080×1920.15cụm phụ đề với các số50.000mAh,3,7V,185Wh chuẩn hóa cách viết và tô cyan theo lời đọc. Chuyển cảnh khoảng0/4.33/11.20/20.00giây, kết thúc theo audio; nhạc/SFX giảm nền còn12%. Các cảnh độn cát/sắt vẫn là mô hình tái dựng, không phải bằng chứng của một mẫu99K cụ thể.
+
 ## TECH UNMASKED — Solar power bank99K (hình/SFX)
 
 - [MP4 30giây,1080×1920](https://github.com/ltranngoc483-netizen/video/raw/refs/heads/video-downloads/downloads/solar-99k-30s-hinh-sfx.mp4)
