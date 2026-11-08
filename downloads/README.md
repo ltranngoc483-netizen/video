@@ -1,5 +1,13 @@
 # The Invisible World — downloads
 
+## THE INVISIBLE WORLD — Bell Witch
+
+- [MP4 30giây,1080×1920, có giọng đọc bản nháp](https://github.com/ltranngoc483-netizen/video/raw/refs/heads/video-downloads/downloads/bell-witch-30s.mp4)
+- [4 PNG dọc1080×1920 độc lập](bell-witch-4-scenes-9x16.zip) · [SRT tiếng Anh](bell-witch-en.srt)
+- [Dự án chỉnh sửa](bell-witch-editable.zip) · [Ghi chú giọng đọc và lịch sử](bell-witch-production-notes.md)
+
+Giọng nam Mỹ trầm cục bộ Kokoro am_michael, chưa phải ElevenLabs Marcus. Bốn cảnh giấy cắt dán có chăn chuyển động độc lập, cắt cận, giấy lật, nhãn kiểm chứng, phụ đề và SFX gốc; CTA25–30giây. Hồ sơ tòa án là mô hình tái dựng; không trình bày bản án xác thực. Lọ thuốc, lời thú nhận và chuyện Jackson được phân biệt là truyền thuyết/chưa xác minh. Tài liệu nguồn gốc chưa được kiểm tra độc lập. Gắn video dài Bell Witch phù hợp vào Related Video sau khi đã xuất bản video đó.
+
 ## Bút ghi âm150K — nội dung đăng và thumbnail mới
 
 - [Tiêu đề, mô tả, thẻ tag](recorder-150k-publishing.txt)
